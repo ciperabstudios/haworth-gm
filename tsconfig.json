@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "paths": {
+      "@modules/*": ["src/modules/*"],
+      "@utils/*": ["src/utils/*"],
+      "@logger": ["src/logger/index.ts"],
+      "@database/*": ["src/database/*"],
+      "@events/*": ["src/events/*"],
+      "@managers/*": ["src/classes/managers/*"],
+      "@commands/*": ["src/classes/commands/*"]
+    },
+    "resolveJsonModule": true,
+    "verbatimModuleSyntax": true,
+    "skipLibCheck": true,
+    "noImplicitOverride": true,
+    "strict": true,
+    "target": "esnext",
+    "types": ["@infernus/types", "@types/node"]
+  },
+  "include": ["src/**/*.ts"]
+}

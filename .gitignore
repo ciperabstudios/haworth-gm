@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Rslib dist
+dist/
+.rslib
+
+# open.mp
+log.txt
+*.dmp
+*.pdb
+omp-server.exe
+include
+components
+plugins
+
+# qawno/pawno folder
+qawno
+pawno
+
+# samp-node
+samp-node.log
+libnode.dll
+
+# Zed settings
+.zed
+
+# xml files
+gamemodes/*.xml
+filterscripts/*.xml
+
+# Infernus CLI
+gamemodes/derby.*
+gamemodes/gungame.*
+gamemodes/simpletdm.*

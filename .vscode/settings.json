@@ -1,0 +1,29 @@
+{
+  "i18n-ally.localesPaths": ["src/i18n/locales"],
+  "i18n-ally.extract.autoDetect": false,
+  "i18n-ally.keystyle": "nested",
+  "todo-tree.highlights.defaultHighlight": {
+    "icon": "alert",
+    "type": "text-and-comment",
+    "foreground": "#000",
+    "background": "#fff",
+    "iconColour": "#5ea0d2"
+},
+"todo-tree.highlights.customHighlight": {
+    "TODO": {
+        "background": "#cfcfc4",
+        "icon": "check",
+    },
+    "FIXME": {
+        "icon": "$(error)",
+        "background": "#ffe666",
+        "foreground": "#000",
+    },
+    "BUG": {
+        "background": "#fa5c50"
+    },
+    "TEST": {
+        "background": "#9dff71"
+    }
+}
+}

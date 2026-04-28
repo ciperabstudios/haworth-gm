@@ -1,0 +1,20 @@
+{
+  "lockfileVersion": 1,
+  "dependencies": {
+    "dockfries/samp-node": {
+      "version": "2.6.1",
+      "component": false
+    },
+    "AmyrAhmady/samp-gps-plugin": {
+      "version": "1.4.1",
+      "component": false
+    },
+    "openmultiplayer/open.mp": {
+      "version": "v1.4.0.2779"
+    },
+    "samp-incognito/samp-streamer-plugin": {
+      "version": "v2.9.6",
+      "component": false
+    }
+  }
+}

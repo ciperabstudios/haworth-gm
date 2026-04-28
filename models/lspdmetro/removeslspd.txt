@@ -1,0 +1,47 @@
+//Map Exported with Texture Studio By: [uL]Pottus////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////and Crayder////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Map Information////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+	Exported on "2024-04-11 12:57:54" by "Bjornfjell"
+	Created by "Bjornfjell"
+*/
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Remove Buildings///////////////////////////////////////////////////////////////////////////////////////////////
+RemoveBuildingForPlayer(playerid, 5782, 897.664, -1346.699, 14.531, 0.250);
+RemoveBuildingForPlayer(playerid, 5948, 897.664, -1346.699, 14.531, 0.250);
+RemoveBuildingForPlayer(playerid, 5780, 889.109, -1375.660, 18.851, 0.250);
+RemoveBuildingForPlayer(playerid, 5781, 887.976, -1372.410, 18.171, 0.250);
+RemoveBuildingForPlayer(playerid, 5965, 887.976, -1372.410, 18.171, 0.250);
+RemoveBuildingForPlayer(playerid, 5816, 877.351, -1363.709, 21.156, 0.250);
+RemoveBuildingForPlayer(playerid, 1260, 907.765, -1374.650, 28.164, 0.250);
+RemoveBuildingForPlayer(playerid, 1266, 907.765, -1374.650, 28.164, 0.250);
+RemoveBuildingForPlayer(playerid, 1260, 875.046, -1383.479, 28.164, 0.250);
+RemoveBuildingForPlayer(playerid, 1266, 875.046, -1383.479, 28.164, 0.250);
+RemoveBuildingForPlayer(playerid, 1462, 886.343, -1357.300, 12.554, 0.250);
+RemoveBuildingForPlayer(playerid, 1411, 875.414, -1343.660, 14.085, 0.250);
+RemoveBuildingForPlayer(playerid, 1438, 872.265, -1346.410, 12.531, 0.250);
+RemoveBuildingForPlayer(playerid, 1411, 870.148, -1343.660, 14.085, 0.250);
+RemoveBuildingForPlayer(playerid, 5783, 908.539, -1384.329, 24.515, 0.250);
+RemoveBuildingForPlayer(playerid, 5815, 877.164, -1361.199, 12.453, 0.250);
+RemoveBuildingForPlayer(playerid, 5949, 877.164, -1361.199, 12.453, 0.250);
+RemoveBuildingForPlayer(playerid, 1365, 861.984, -1380.459, 13.625, 0.250);
+RemoveBuildingForPlayer(playerid, 5817, 848.859, -1370.430, 17.796, 0.250);
+RemoveBuildingForPlayer(playerid, 1462, 826.851, -1385.670, 12.507, 0.250);
+RemoveBuildingForPlayer(playerid, 962, 825.054, -1356.880, 13.601, 0.250);
+RemoveBuildingForPlayer(playerid, 962, 827.507, -1353.729, 13.601, 0.250);
+RemoveBuildingForPlayer(playerid, 5773, 837.414, -1361.219, 10.031, 0.250);
+RemoveBuildingForPlayer(playerid, 5950, 837.414, -1361.219, 10.031, 0.250);
+RemoveBuildingForPlayer(playerid, 1635, 860.914, -1359.800, 16.085, 0.250);
+RemoveBuildingForPlayer(playerid, 1462, 853.195, -1359.729, 12.554, 0.250);
+RemoveBuildingForPlayer(playerid, 1635, 868.062, -1340.609, 17.484, 0.250);
+RemoveBuildingForPlayer(playerid, 1440, 857.375, -1381.160, 13.046, 0.250);
+RemoveBuildingForPlayer(playerid, 1260, 932.585, -1363.520, 21.796, 0.250);
+RemoveBuildingForPlayer(playerid, 1266, 932.585, -1363.520, 21.796, 0.250);
+
+//Objects////////////////////////////////////////////////////////////////////////////////////////////////////////
+new tmpobjid;
+tmpobjid = CreateDynamicObjectEx(1260, 907.765991, -1374.650024, 28.164100, 0.000000, 0.000000, -178.736724, 1000.00, 1000.00); 
+tmpobjid = CreateDynamicObjectEx(1260, 875.046997, -1383.479980, 28.164100, 0.000000, 0.000000, 91.263252, 1000.00, 1000.00); 

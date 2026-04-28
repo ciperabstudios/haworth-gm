@@ -1,0 +1,22 @@
+{
+	"Base Command": {
+		"prefix": "cmd", 
+		"body": [
+			"import Command from \"@/classes/Command\";",
+			"",
+			"new Command({",
+			"    name: \"${1:name}\",",
+			"    description: \"${2:description}\",",
+			"    syntax: \"${3:syntax}\",",
+			"    aliases: [\"${4:aliases}\"],",
+			"    run: async ({ player, subcommand, next }) => {",
+			"        ",
+			"        ",
+			"        ",
+			"        return next();",
+			"    }",
+			"});"
+		],
+		"description": "Crea un nuevo bloque de comando con nombre, descripción, sintaxis y aliases"
+	}
+}

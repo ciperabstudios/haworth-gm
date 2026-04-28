@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dockfries/samp-node": "*",
+    "AmyrAhmady/samp-gps-plugin": "*",
+    "openmultiplayer/open.mp": "*",
+    "samp-incognito/samp-streamer-plugin": "*"
+  }
+}
