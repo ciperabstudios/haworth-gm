@@ -103,6 +103,11 @@ It enables us to learn continuously, test ideas, and enhance our ability to stru
 - Dev: `npm run dev` (watches and runs dev server via PowerShell script).
 - Build: `npm run build` (produces `dist/bundle.js` via rslib).
 
+## Acknowledgements
+
+This project has been inspired by several servers that, across generations within the SA:MP community, have demonstrated the level of immersion and creativity that can be achieved by deeply understanding the environment and the possibilities it offers.
+
+Key references include: Los Santos - Juego de Rol (Spanish-speaking community — [ls-rp.es](https://ls-rp.es)), Los Santos Roleplay (English-speaking community — [ls-rp.com](https://ls-rp.com)), GenerationCity Roleplay, Glow City Roleplay, Long Beach - Juego de Rol, United States - Juego de Rol (KxLean version), Bone County - Juego de Rol, GTA Chronicles, Singleplayer Roleplay, and the legendary Zenon City Roleplay.
 
 ---
 
@@ -215,3 +220,8 @@ Permite aprender de forma continua, probar ideas y mejorar la capacidad de estru
 - Instalar: `pnpm install` (de `package.json`).
 - Dev: `npm run dev` (vigila y ejecuta servidor dev vía script PowerShell).
 - Build: `npm run build` (produce `dist/bundle.js` vía rslib).
+
+### Reconocimientos
+Este proyecto ha sido inspirado por diversos servidores que, a lo largo de las generaciones dentro de la comunidad de SA:MP, han demostrado el nivel de inmersión y creatividad que puede alcanzarse al comprender profundamente el entorno y las posibilidades que este ofrece.
+
+Entre los principales referentes se encuentran: Los Santos - Juego de Rol (comunidad hispanoparlante — [ls-rp.es](https://ls-rp.es)), Los Santos Roleplay (comunidad angloparlante — [ls-rp.com](https://ls-rp.com)), GenerationCity Roleplay, Glow City Roleplay, Long Beach - Juego de Rol, United States - Juego de Rol (versión de KxLean), Bone County - Juego de Rol, GTA Chronicles, Singleplayer Roleplay y el legendario Zenon City Roleplay.
